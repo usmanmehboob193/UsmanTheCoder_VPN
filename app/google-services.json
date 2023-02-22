@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "387237247741",
+    "project_id": "tomandjerry-8f09d",
+    "storage_bucket": "tomandjerry-8f09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387237247741:android:af0be8ba1081e7dd885c94",
+        "android_client_info": {
+          "package_name": "com.liberty.apps.fahad.TomandJerry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387237247741-lf9tkbo0pb3g9judmi29p4a62teqin8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0biuVp5vLJNwjqPouKgBl8YPCJC7jSMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387237247741-lf9tkbo0pb3g9judmi29p4a62teqin8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387237247741:android:d4addd1d5f446f4c885c94",
+        "android_client_info": {
+          "package_name": "com.liberty.apps.studio.TomandJerry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387237247741-lf9tkbo0pb3g9judmi29p4a62teqin8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0biuVp5vLJNwjqPouKgBl8YPCJC7jSMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387237247741-lf9tkbo0pb3g9judmi29p4a62teqin8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
